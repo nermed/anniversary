@@ -1,0 +1,17 @@
+{
+  "name": "cadeau",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./js/main.js",
+  "dependencies": {
+    "@dogstudio/highway": "^2.2.1",
+    "gsap": "^3.6.0",
+    "parcel-bundler": "^1.12.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
